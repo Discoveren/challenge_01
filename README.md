@@ -4,7 +4,7 @@
 ## Description
 
 
-The purpose of this project is to convert non-semantic elements to semantic elements to make it more accessable to the public.
+The purpose of this project is to convert non-semantic elements to semantic elements to make it more accessible to the public.
 
 ## Installation
 
